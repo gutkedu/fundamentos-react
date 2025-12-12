@@ -1,0 +1,6 @@
+.sidebar 
+{
+  background: var(--gray-800);
+  padding: 1.5rem;
+  border-radius: 8px;
+}
